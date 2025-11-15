@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BodyMeasureTracker</string>
+    <string name="add_measurement">Add Measurement</string>
+    <string name="measurement_history">Measurement History</string>
+    <string name="progress">Progress</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
